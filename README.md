@@ -1,6 +1,6 @@
 # EFSonic_Financial_Transactions
 
-📌 Query: Financial Transactions with Opening Balance, Debit & Credit
+📌 Query: Financial Transactions Analysis (EFSonicData)
 
 Description
 This query generates a financial transactions report for a specific organization within a given date range, with multi-language support. It shows account balances, opening balance, debit, and credit movements.
